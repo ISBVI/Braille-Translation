@@ -200,7 +200,7 @@ void queToArray(byte buffer[4][9], int *front, byte arrToCheck[4][9], int buffer
       }
       else //cirular effects need to be taken into account
       {
-        arrToCheck[i][j] = buffer[(*front)-(3-i)][j]; //end of buffer reached so back to smaller indexs being copied to new array
+        arrToCheck[i][j] = buffer[(*front)-(3-i)][j]; //end of buffer reached so back to smaller indexes being copied to new array
       }
     }
   }
