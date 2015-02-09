@@ -1,2 +1,2 @@
-# BrailleToText
-Purdue University EPICS ISBVI Team's LEAP code.
+# Arduino
+Purdue University EPICS ISBVI Team's Arduino code.
