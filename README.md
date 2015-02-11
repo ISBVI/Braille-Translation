@@ -4,4 +4,4 @@ EPICS is a unique program in which teams of undergraduates are designing, buildi
 
 We are the ISBVI (Indiana School of the Blind and Visually Impaired) team within this program and are creating technologies and services to help blind and visually impaired people.
 
-Visit our website for more information: https://engineering.purdue.edu/EPICS/Projects/Teams/viewTeam?teamid=81
+Visit our website for more information: http://epics.ecn.purdue.edu/isbvi/
